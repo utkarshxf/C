@@ -1,0 +1,1 @@
+struct std a[c];
